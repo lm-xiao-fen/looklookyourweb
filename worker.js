@@ -1,5 +1,6 @@
 // ====== 要检测的网站（写死在这里） ======
 const SITES = [
+  { name: "xf_blog", url: "https://lm-xiao-fen.github.io" },
   { name: "Google", url: "https://www.google.com" },
   { name: "GitHub", url: "https://github.com" },
   { name: "Example", url: "https://example.com" }
